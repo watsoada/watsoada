@@ -1,0 +1,19 @@
+{
+  "name": "watsoada",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watsoada/watsoada.git"
+  },
+  "author": "Adam <watsoada@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watsoada/watsoada/issues"
+  },
+  "homepage": "https://github.com/watsoada/watsoada#readme"
+}
